@@ -1,6 +1,6 @@
 module looklook
 
-go 1.22
+go 1.23.7
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
@@ -14,7 +14,7 @@ require (
 
 require (
 	github.com/Masterminds/squirrel v1.5.2
-	github.com/golang-module/carbon/v2 v2.0.1
+	github.com/dromara/carbon/v2 v2.6.11
 )
 
 require (

@@ -18,3 +18,5 @@ data/*
 .vscode/
 
 
+/.history/app/mqueue/cmd/job/internal/logic/*.go
+/.history
